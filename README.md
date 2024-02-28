@@ -1,2 +1,2 @@
-# astrophysics
+# Astrophysics
 Programs/scripts I use in my Astrophysics work
